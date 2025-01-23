@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa36520b.css",
+    "main.js": "/static/js/main.471a9b02.js",
+    "static/js/488.bbb2970e.chunk.js": "/static/js/488.bbb2970e.chunk.js",
+    "static/media/nsbe-logo.png": "/static/media/nsbe-logo.2736aaaeb3dceebbaa20.png",
+    "static/media/instagram.svg": "/static/media/instagram.1b5d0c94532e9b3285b85fa7eb391f0f.svg",
+    "static/media/mail.svg": "/static/media/mail.f43b0286f0149434c5d5802d0ef9f1d9.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.648654ab79db2b3d50cd9251ad7dbd51.svg",
+    "static/media/folder-with-files.svg": "/static/media/folder-with-files.1b88bb2f7cf3b2d3ff38b67555cc2db8.svg",
+    "static/media/folder-without-files.svg": "/static/media/folder-without-files.a14344d67e33ebc059c89691325d82b5.svg",
+    "index.html": "/index.html",
+    "main.aa36520b.css.map": "/static/css/main.aa36520b.css.map",
+    "main.471a9b02.js.map": "/static/js/main.471a9b02.js.map",
+    "488.bbb2970e.chunk.js.map": "/static/js/488.bbb2970e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa36520b.css",
+    "static/js/main.471a9b02.js"
+  ]
+}
